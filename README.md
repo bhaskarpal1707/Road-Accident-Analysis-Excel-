@@ -44,6 +44,7 @@ This project involves working with Kaggle-sourced demo data, specifically manipu
 ## 📈 **Outcome**
 The project showcases the **power of Excel** in transforming raw data into meaningful insights, enhancing data-driven decision-making capabilities.
 
-## 💬 **Feedback & Discussions**
-Looking forward to feedback and discussions. Feel free to reach out with suggestions or questions!  
+## **Dashboard**
+ ![Road Accident SS](https://github.com/user-attachments/assets/773f0bd2-eb84-4627-aae8-38b0e8941655)
+
 
