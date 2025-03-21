@@ -47,6 +47,6 @@ This project involves working with Kaggle-sourced demo data, specifically manipu
 ## 📈 **Outcome**
 The project showcases the **power of Excel** in transforming raw data into meaningful insights, enhancing data-driven decision-making capabilities.
 
-## 🔗 **Access the project and raw data & Dasboard here:** https://lnkd.in/g66Cy8h2
+## 🔗 **Access the project and raw data & Dasboard here:** https://drive.google.com/drive/u/4/folders/1k7jfiCO7DTTpUZfyjxdu2RVKjZFq4AlX)
 
 
