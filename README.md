@@ -1,5 +1,8 @@
 # Advanced Excel Project: Data Cleaning, Processing, Analysis & Visualization 📊
 
+## **Dashboard**
+ ![Road Accident SS](https://github.com/user-attachments/assets/773f0bd2-eb84-4627-aae8-38b0e8941655)
+
 ## 📄 **Project Overview**
 This project involves working with Kaggle-sourced demo data, specifically manipulated for practice purposes—not real-time data from any organization or government source. The objective was to leverage **Advanced Excel** techniques to transform raw data into **actionable insights** through cleaning, processing, analysis, and visualization.
 
@@ -44,7 +47,6 @@ This project involves working with Kaggle-sourced demo data, specifically manipu
 ## 📈 **Outcome**
 The project showcases the **power of Excel** in transforming raw data into meaningful insights, enhancing data-driven decision-making capabilities.
 
-## **Dashboard**
- ![Road Accident SS](https://github.com/user-attachments/assets/773f0bd2-eb84-4627-aae8-38b0e8941655)
+## 🔗 **Access the project and raw data & Dasboard here:** https://lnkd.in/g66Cy8h2
 
 
